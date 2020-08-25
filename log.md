@@ -11,3 +11,9 @@
 **Today's Progress**: Started building a Fantasy trading app project from a program i am a part.
 
 **Thoughts:** I am excited about the progress I have made today with reactjs. I am overstanding the core concepts and Im really gald. I want to finish all the markup by tomorrow so that i can move on to react router with was another challenge with overstanding how it works.  
+
+### Day 6: August 24, 2020
+
+**Today's Progress**: Worked on Portfolio page for the Trading App. Styling to complete
+
+**Thoughts:** I made go progress. I am moving on to react router tomorrow and tune styling as needed.
