@@ -17,3 +17,9 @@
 **Today's Progress**: Worked on Portfolio page for the Trading App. Styling to complete
 
 **Thoughts:** I made go progress. I am moving on to react router tomorrow and tune styling as needed.
+
+### Day 42: September 29, 2020
+
+**Today's Progress**: I have been completely not been recording in this repo but i have been coding. I am almost through my fantasy trading app. I am really trying to overstand React. I think have the basics down and now i need to move on to overstanding advanced react. I have seen render props, advanced routing etc and seen them in action but I dont know the how and why completely. Im working on that. I also got started with a python backend in flask. Im moving abd have to be better with posting. #100DaysOfCode
+
+**Thoughts:** I am moving to completely overstand react. 
