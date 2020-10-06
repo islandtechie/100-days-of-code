@@ -23,3 +23,9 @@
 **Today's Progress**: I have been completely not been recording in this repo but i have been coding. I am almost through my fantasy trading app. I am really trying to overstand React. I think have the basics down and now i need to move on to overstanding advanced react. I have seen render props, advanced routing etc and seen them in action but I dont know the how and why completely. Im working on that. I also got started with a python backend in flask. Im moving abd have to be better with posting. #100DaysOfCode
 
 **Thoughts:** I am moving to completely overstand react. 
+
+### Day 48: October 5, 2020
+
+**Today's Progress**: So I am struggling a bit with my flask backend mainly becasuse I dont entirely understand jwt and middleware well. My react is improving but I know my code is ugly. Learning flask gives insight into all the little pieces that make up the backend.  #100DaysOfCode
+
+**Thoughts:** I am moving to completely overstand react. 
